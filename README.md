@@ -12,7 +12,7 @@ Refactoring a site for semantic HTML and better accessibility
 ## Screenshots of Final Site
 
 ### Header of Site
-![Screenshot of Header](/assets/images/screenshot1.png)
+![Screenshot of Header](./assets/images/screenshot1.png)
 
 ### Body of Site
-![Screenshot of Body](/assets/images/screenshot2.png)
+![Screenshot of Body](./assets/images/screenshot2.png)
